@@ -1,4 +1,4 @@
-# Data Structures Java
+# Data Structures in Java
 
 My implementation of the following data structures with Java:
   - Linked List
